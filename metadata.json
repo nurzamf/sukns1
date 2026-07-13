@@ -1,0 +1,6 @@
+{
+  "name": "Portal Rasmi Kerajaan Negeri Sembilan",
+  "description": "Portal Rasmi Kerajaan Negeri Sembilan (SUKNS) dengan Berita, Perkhidmatan, dan Pembantu AI Perpatih@NS",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
